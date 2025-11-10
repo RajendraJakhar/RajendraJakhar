@@ -45,9 +45,21 @@
 ---
 
 ## 📫 Connect With Me  
+
 📍 From: India 🇮🇳  
-🎓 IIT Jodhpur | AI & Data Science Student  
+🎓 IIT Jodhpur | B.Sc. (Hons) in AI & Data Science  
+📧 Email: [business.thinkstorm@gmail.com](mailto:business.thinkstorm@gmail.com)  
 💬 “Turning data into dreams, one project at a time.”  
+
+---
+
+### 🌐 Find Me Online  
+[![Email](https://img.shields.io/badge/Email-business.thinkstorm%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:business.thinkstorm@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajendra%20Jakhar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajendrajakhar)  
+[![GitHub](https://img.shields.io/badge/GitHub-RajendraJakhar-black?style=for-the-badge&logo=github)](https://github.com/RajendraJakhar)  
+[![YouTube](https://img.shields.io/badge/YouTube-Rajendra%20Jakhar%20IITian-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@RajendraJakharIITian)  
+[![X (Twitter)](https://img.shields.io/badge/Twitter-@RajendraIITian-blue?style=for-the-badge&logo=x)](https://x.com/RajendraIITian)  
+[![Instagram](https://img.shields.io/badge/Instagram-@rajendra__jakhar__iitj-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/rajendra_jakhar_iitj?igsh=MWF4N2N6emk4eGNjdQ==)
 
 ---
 
