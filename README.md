@@ -63,6 +63,18 @@
 
 ---
 
+## 🔥 Founder & Creator  
+[![ThinkStorm](https://img.shields.io/badge/Founder%20@-ThinkStorm-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RajendraJakharIITian)  
+
+🎯 *ThinkStorm* is my creative space where I share motivational, educational & AI-based content to inspire learners and dreamers.  
+💫 Vision: *“Think Smarter – Grow Stronger – Inspire Bigger.”*  
+
+---
+
+> “Dreams don’t work unless you do — but when you work smart, destiny joins the team.” 💻✨ 
+
+---
+
 ![Rajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajendraJakhar&show_icons=true&theme=tokyonight)
 
 ---
