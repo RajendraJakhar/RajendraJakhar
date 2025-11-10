@@ -1,58 +1,60 @@
-# 🥁 Hi, I'm Rajendra Jakhar 🥁  
+# 👋 Hey there, I'm Rajendra Jakhar  
 
-🍁 Welcome to my dark yet curious corner of GitHub 🍁  
-
-🎓 **First-year B.Sc. (Hons)** student in **AI & Data Science** at **IIT Jodhpur (2025–2028)**  
-💡 Eager to gain hands-on experience in real-world data and tech environments.  
-📊 Currently exploring **Excel**, **SQL**, and **Machine Learning**.  
-🚀 Future legend loading... ⏳  
+🎓 **First-year B.Sc. (Hons)** student in **Artificial Intelligence and Data Science** at **IIT Jodhpur (2025–2028)**  
+💡 Exploring the world of Data, AI, and Machine Learning one line of code at a time.  
+🚀 Future Data Scientist loading... stay tuned ⏳  
 
 ---
 
-### 🌙 About Me
-😎 Calm face, deep mind.  
-💀 I don’t compete — I just keep improving.  
-❤️ Real love doesn’t happen twice.  
-😂 I don’t flirt... I just talk sweetly and hearts get confused.  
-🎧 Music | Learning | Positivity | Late-night thinking  
+## 🧠 About Me  
+🥁 Calm mind. Focused soul. Curious brain.  
+🔥 I learn, I build, I repeat.  
+💀 I don’t show off — my work does the talking.  
+🌙 Sometimes coding, sometimes thinking about life.  
+🎧 Music + Motivation + Machine Learning = My vibe.  
 
 ---
 
-### ⚡ Vibe & Attitude
-- Cold mind ❄️, warm heart ❤️  
-- Once you know me... there’s no going back 💀  
-- Mysterious like night 🌙, soft like dawn ☁️  
-- “I don’t chase dreams — I build them.”  
+## ⚙️ What I'm Learning  
+- 📊 **Excel** — Turning data into insights  
+- 🗄️ **SQL** — Talking to databases  
+- 🐍 **Python** — My daily coding partner  
+- 🤖 **Machine Learning** — Because the future is smart  
 
 ---
 
-### 🧠 Skills & Learning
-- 📊 Excel for Data Analysis  
-- 🗄️ SQL for Databases  
-- 🐍 Python Programming  
-- 🤖 Machine Learning (Learning Phase)  
+## 💫 My Motto  
+> “Work in silence, code with patience, and let success make the noise.”  
+> “Legends don’t copy — they create their own logic.”  
 
 ---
 
-### 🎯 Goals
+## 🔥 Fun Side (Because I’m not a robot 😏)  
+💘 Love Status: Loading… Network slow hai 😅❤️  
+😂 Flirt Level: 404 – Love not found, sarcasm detected 💀  
+☕ Late-night coder, early dreamer.  
+🕶️ Vibe: Chill mind, sharp goals.  
+
+---
+
+## 📚 Goals  
 - Build projects that inspire and teach  
-- Contribute to open-source communities  
-- Grow through real-world experience  
+- Gain real-world experience through internships  
+- Grow as a data-driven problem solver  
 
 ---
 
-### 💬 Connect with Me
+## 📫 Connect With Me  
 📍 From: India 🇮🇳  
-🎓 IIT Jodhpur (AI & Data Science)  
-💘 “Trusting destiny. Working in silence. Dreaming in data.”  
+🎓 IIT Jodhpur | AI & Data Science Student  
+💬 “Turning data into dreams, one project at a time.”  
 
 ---
 
 ![Rajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajendraJakhar&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajendraJakhar&layout=compact&theme=tokyonight)
 
 ---
 
-🕶 **End Line:**  
+### 🕶 End Line  
 > “I’m not a prince waiting for a princess…  
-> I’m a king building a kingdom for one real queen 👑💫”  
+> I’m a king building a kingdom for one real queen 👑💫”
