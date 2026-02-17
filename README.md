@@ -55,6 +55,7 @@ Vision: *Think Smarter – Grow Stronger – Inspire Bigger.*
 
 > "Learn daily. Improve consistently. Build fearlessly." 💻🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajendraJakhar&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=RajendraJakhar&show_icons=true&theme=tokyonight)
+
 
 
