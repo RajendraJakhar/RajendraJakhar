@@ -117,7 +117,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/aryanprjpt&w=160&h=160&fit=cover&mask=circle" width="120" /><br><br>
+     <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/aryanprjpt&s=200&mask=circle" width="120" /><br>
       <b>Aryan Prajapat</b><br>
       <sub><i>Artificial Intelligence & Data Science</i></sub><br><br>
       🎓 IIT Jodhpur &nbsp;|&nbsp; 💻 Developer &nbsp;|&nbsp; 💡 Problem Solver<br><br>
@@ -126,7 +126,7 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/rajendrajakhar&w=160&h=160&fit=cover&mask=circle" width="120" /><br><br>
+      <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/rajendrajakhar&s=200&mask=circle" width="120" /><br>
       <b>Rajendra Jakhar</b><br>
       <sub><i>Artificial Intelligence & Data Science</i></sub><br><br>
       🎓 IIT Jodhpur &nbsp;|&nbsp; 💻 Developer &nbsp;|&nbsp; 💡 Problem Solver<br><br>
