@@ -117,7 +117,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-     <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/aryanprjpt&s=200&mask=circle&v=2" width="120"> /><br>
+     <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/aryanprjpt&s=200&mask=circle&v=2" width="120"/><br>
       <b>Aryan Prajapat</b><br>
       <sub><i>Artificial Intelligence & Data Science</i></sub><br><br>
       🎓 IIT Jodhpur &nbsp;|&nbsp; 💻 Developer &nbsp;|&nbsp; 💡 Problem Solver<br><br>
