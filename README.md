@@ -9,7 +9,7 @@
 ### Artificial Intelligence & Data Science Student
 
 <p>
-🎓 First-year B.Sc. (Hons) student at IIT Jodhpur (2025–2028) • 🚀 Aspiring Data Scientist
+🎓 Second -year B.Sc. (Hons) student at IIT Jodhpur (2025–2028) • 🚀 Aspiring Data Scientist
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Science;Artificial+Intelligence;Machine+Learning;Building+skills+one+project+at+a+time..." />
